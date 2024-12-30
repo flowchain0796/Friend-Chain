@@ -24,7 +24,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 # Friend-Chain
 
-**Friend-Chain**: Your Web3 solution to find and rent friends for online or offline companionship using YXT tokens on the FLOWCHAIN Chain.
+**Friend-Chain**: Your Web3 solution to find and rent friends for online or offline companionship using AMIGO tokens on the FLOWCHAIN Chain.
 
 ## Introduction
 Friend-Chain is designed to bridge the gap between those seeking companionship and individuals offering their time and company. Whether you need a friend for a chat, an event, or just some support, Friend-Chain has got you covered.
@@ -36,14 +36,14 @@ Friend-Chain is designed to bridge the gap between those seeking companionship a
 
 2. **Find and Rent Friends**:
    - Browse through available friends and choose the perfect companion for your needs.
-   - Rent friends using YXT tokens for a secure and seamless transaction.
+   - Rent friends using AMIGO tokens for a secure and seamless transaction.
 
 3. **Web3 Integration**:
    - Leveraging blockchain technology to ensure transparency, security, and efficiency.
    - All transactions and interactions are managed through smart contracts.
 
 4. **Token System**:
-   - Users pay for companionship using YXT tokens, ensuring a safe and trusted environment.
+   - Users pay for companionship using AMIGO tokens, ensuring a safe and trusted environment.
    - Tokens can be earned and spent within the platform, creating a robust ecosystem.
 
 5. **Supportive Community**:
@@ -58,7 +58,7 @@ Friend-Chain is designed to bridge the gap between those seeking companionship a
    - Connect your digital wallet to manage tokens and transactions.
 
 3. **Browse and Rent**:
-   - Find the perfect friend and rent their time using YXT tokens.
+   - Find the perfect friend and rent their time using AMIGO tokens.
 
 4. **Earn Tokens**:
    - List yourself as a friend for rent and earn tokens by providing companionship.
@@ -69,7 +69,7 @@ Friend-Chain is designed to bridge the gap between those seeking companionship a
 - **Dependencies**: 
   - etherjs for blockchain interaction
   - React.js for frontend development
-- **Token Symbol**: `YXT` (Friend-Chain Token)
+- **Token Symbol**: `AMIGO` (Friend-Chain Token)
 
 ## License
 Friend-Chain is released under the [MIT License](LICENSE).
