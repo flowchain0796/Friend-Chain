@@ -75,7 +75,7 @@ const explore = () => {
 
   const withdraw = async () => {
     const claimAmt = 50;
-    const contractAddress = "0x2ed1e0e3c77ace06a0ef51076a57edde6ce3ec8a"
+    const contractAddress = "0xB331dB286c33648045B05403d17C47a7De756692"
     if ( window.ethereum === undefined){
       return
     }
@@ -94,7 +94,7 @@ const explore = () => {
   }
   const donate = async () => {
     const claimAmt = 5;
-    const contractAddress = "0x2ed1e0e3c77ace06a0ef51076a57edde6ce3ec8a"
+    const contractAddress = "0xB331dB286c33648045B05403d17C47a7De756692"
     if ( window.ethereum === undefined){
       return
     }
